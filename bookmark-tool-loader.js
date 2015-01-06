@@ -42,7 +42,7 @@
 		if (handle) {
 			if ( type === 'js' && document.all ) {
 				res.onreadystatechange = function() {
-					if ( js.readyState === 'loaded' || js.readyState === 'complete' ) {
+					if ( res.readyState === 'loaded' || res.readyState === 'complete' ) {
 						handle();
 					}
 				};
