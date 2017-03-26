@@ -1,6 +1,8 @@
 bookmark-tool-loader
 ====================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yujiangshui/bookmark-tool-loader.svg)](https://greenkeeper.io/)
+
 Bookmark tool loader，让你专注于书签工具本身功能的编写。
 
 Bookmark tool loader, let you focus on bookmark tool itself.
